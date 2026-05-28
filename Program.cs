@@ -3,7 +3,7 @@ using System;
 
 class Program {
 	static int demander_entier(){
-		Console.WriteLine("Entrer un nombre :");
+		Console.WriteLine("Saisir un entier");
 		int nb = -1;
 		try {
 			nb = Convert.ToInt32(Console.ReadLine());
@@ -12,7 +12,7 @@ class Program {
 		}
 		
 		if (nb < 0){
-			throw new ArgumentOutOfRangeException("Valeur invalide car négative");
+			throw new ArgumentOutOfRangeException("L'entier doit être strictement positif (Parameter 'n')");
 		}
 		return nb;
 	}
@@ -25,11 +25,10 @@ class Program {
 		return res;
 	}
 	
-	static void Main(){
-		Console.WriteLine("Hello World !");
-		
+	static void Main(){		
 		int nb = demander_entier();
 		double res = wotan(nb);
-		Console.WriteLine($"Le résultat du nombre de Wotan de {nb} est {res}");
+		res = Math.Round(res, 2);
+		Console.WriteLine($"W{nb} vaut {res}");
 	}
 }
