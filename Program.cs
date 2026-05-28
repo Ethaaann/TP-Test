@@ -17,10 +17,19 @@ class Program {
 		return nb;
 	}
 	
+	static double wotan(int a){
+		double res = 0.0;
+		for (double i = 1; i <= a; i++){
+			res = res + Convert.ToDouble(1/i);
+		}
+		return res;
+	}
+	
 	static void Main(){
-		Console.WriteLine("Hello !!!");
+		Console.WriteLine("Hello World !");
 		
 		int nb = demander_entier();
-		Console.WriteLine(nb);
+		double res = wotan(nb);
+		Console.WriteLine($"Le résultat du nombre de Wotan de {nb} est {res}");
 	}
 }
