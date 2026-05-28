@@ -1,0 +1,15 @@
+C:\Users\b22507102\Documents\TP-Test\bin\Debug\net9.0\TP-Test.exe
+C:\Users\b22507102\Documents\TP-Test\bin\Debug\net9.0\TP-Test.deps.json
+C:\Users\b22507102\Documents\TP-Test\bin\Debug\net9.0\TP-Test.runtimeconfig.json
+C:\Users\b22507102\Documents\TP-Test\bin\Debug\net9.0\TP-Test.dll
+C:\Users\b22507102\Documents\TP-Test\bin\Debug\net9.0\TP-Test.pdb
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\TP-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\TP-Test.AssemblyInfoInputs.cache
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\TP-Test.AssemblyInfo.cs
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\TP-Test.csproj.CoreCompileInputs.cache
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\TP-Test.sourcelink.json
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\TP-Test.dll
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\refint\TP-Test.dll
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\TP-Test.pdb
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\TP-Test.genruntimeconfig.cache
+C:\Users\b22507102\Documents\TP-Test\obj\Debug\net9.0\ref\TP-Test.dll
